@@ -21,8 +21,13 @@ According to the summary dataframe shown above, we gathered some differences in 
 5)Average fare per driver: The average fare per driver is the highest for rural cities, and it is 3.3 times and 1.4 times of those in urban cities and suburban cities repectively.
 
 6)Total fare by city type: 
-<img src="analysis/Summary_df.PNG" width= "500">
-According the 
+
+<img src="analysis/Pyber_fare_summary.png" width= "500">
+
+
+According to the line chart shown above, we noticed that the total fares for three city types have similar trends for the month of Jan to Apr; They all reached a peak by the end of Feb and followed by lower demands starting Mar. After April, the demand for urban cities still stays high, where the other two city types show falling trend, this desparity could be caused by the winter season: people live in the suburban cities and rural cities only rely on ride-sharing when it is cold.
+
+
 
 ## Summary:
 There are three business recommendations to the CEO for addressing any disparities among the city types:
